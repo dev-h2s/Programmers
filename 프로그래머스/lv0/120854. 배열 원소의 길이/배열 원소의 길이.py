@@ -1,5 +1,6 @@
 def solution(strlist):
-    return [len(s) for s in strlist]
+    answer = [len(s) for s in strlist]
+    return answer 
 
 # def solution(strlist):
 #     result = []
